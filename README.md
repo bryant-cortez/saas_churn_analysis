@@ -8,7 +8,7 @@ To investigate these challenges, I generated and cleaned synthetic SaaS subscrip
 
 Across **5,000 customers**, the analysis identified **1,346 cancellations (26.92% churn)**, representing **$107.16K in churn-related Monthly Recurring Revenue (MRR)** over the observation period.
 
-Two areas emerged as retention priorities:
+Three areas emerged as retention priorities:
 
 1. **Improve Acquisition Quality:** Social Media (25.62%) and Paid Search (23.76%) have the highest 90-day churn rates among acquisition channels. Together, these channels account for **430 early cancellations and $32.92K in churn-related MRR**. I would recommend that the team investigate acquisition targeting, customer expectations, and early product adoption to identify opportunities to improve retention.
 2. **Reduce Repeated SLA Breaches:** Customers experiencing at least two SLA breaches within 90 days have a **37.70% churn rate**, compared with **26.20%** among customers without repeated breaches. The affected group accounts for **$12.81K in churn-related MRR**, suggesting an opportunity to strengthen support escalation and retention processes.
@@ -45,7 +45,7 @@ The analysis focuses on two potential drivers of customer churn: **acquisition q
 
 ### Relational Data Model
 
-<img src="images/churn_data_model.jpg" alt="Data Model" width="500">
+<img src="images/churn_data_model.jpg" alt="Data Model" width="700">
 
 ## Skills
 
