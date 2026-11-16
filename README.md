@@ -185,7 +185,7 @@ This suggests that support failures affecting Enterprise accounts warrant partic
 2. **Strengthen Enterprise Support Monitoring:** Create account-level alerts for recurring SLA violations and involve customer success managers when high-value customers experience repeated issues.
 3. **Evaluate Intervention Effectiveness:** Track retention outcomes and support costs for escalated Enterprise accounts to determine whether proactive intervention produces a positive financial return.
 
-*(View the full interactive Tableau Dashboard [here](INSERT_TABLEAU_PUBLIC_LINK_HERE) or download the `.twbx` file in this repo).*
+*(View the full interactive Tableau Dashboard [here](https://public.tableau.com/app/profile/bryant.cortez/viz/FunnelAnalysis_17933177896900/FunnelAnalysisDashboard?publish=yes) or download the `.twbx` file in this repo).*
 
 ## Next Steps
 
