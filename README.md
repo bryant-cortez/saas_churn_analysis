@@ -45,7 +45,7 @@ The analysis focuses on two potential drivers of customer churn: **acquisition q
 
 ### Relational Data Model
 
-![SaaS Relational Data Model](images/churn_data_model.jpg)
+<img src="images/churn_data_model.png" alt="Data Model" width="500">
 
 ## Skills
 
